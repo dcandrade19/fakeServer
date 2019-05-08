@@ -1,1 +1,1 @@
-{ "vagas": [{ "id": "1", "nome": "VagaUlt","periodo":"noite","cidade":"Curitiba","estado":"PR","data":"2019-03-05", "testes": [{ "titulo": "teste 1" }]}]}
+{ "vagas": [{ "id": "1", "nome": "VagaUlt","periodo":"noite","cidade":"Curitiba","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]}]}
