@@ -1,1 +1,1 @@
-{ "vagas": [{ "id": "1", "nome": "VagaUlt", "testes": [{ "titulo": "teste 1" }]}]}
+{ "vagas": [{ "id": "1", "nome": "VagaUlt","periodo":"noite","cidade":"Curitiba","estado":"PR", "testes": [{ "titulo": "teste 1" }]}]}
