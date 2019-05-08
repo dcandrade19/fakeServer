@@ -1,15 +1,9 @@
-{
+{ "vagas" : [{
   "nome": "VagaUlt",
   "testes": [
-    {
-      "titulo": "teste 1",
-      "questoes": [
-        {
-          "descricao": "pergunta 1",
-          "respostas": [
-            {
-              "descricao": "resposta 1",
-              "certa": "false"
+    { "titulo": "teste 1", "questoes": [
+        { "descricao": "pergunta 1", "respostas": [
+            { "descricao": "resposta 1", "certa": "false"
             },
             {
               "descricao": "resposta 2",
@@ -162,4 +156,6 @@
       ]
     }
   ]
+}
+             ]
 }
