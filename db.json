@@ -1,3 +1,3 @@
-{ "vagas": [{ "id": "1", "nome": "VagaUlt","periodo":"noite","cidade":"Curitiba","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]},
-{ "id": "2", "nome": "Vagteste","periodo":"noite","cidade":"Curitiba","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]},
-{ "id": "3", "nome": "Vagaggg","periodo":"noite","cidade":"Curitiba","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]}]}
+{ "vagas": [{ "id": "1", "nome": "VagaUlt","periodo":"noite","cidade":"Curitiba","empresa":"Teste","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]},
+{ "id": "2", "nome": "Vagteste","periodo":"noite","cidade":"Curitiba","empresa":"Teste","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]},
+{ "id": "3", "nome": "Vagaggg","periodo":"noite","cidade":"Curitiba","empresa":"Teste","estado":"PR","descricao":"desc teste", "testes": [{ "titulo": "teste 1" }]}]}
